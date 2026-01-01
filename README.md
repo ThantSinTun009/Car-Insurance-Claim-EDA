@@ -7,5 +7,5 @@ The goal of this project is to understand patterns related to insurance claims w
 ## Language
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r&perline=7" />
+  <img src="https://skillicons.dev/icons?i=r,rstudio&perline=7" />
 </p>
